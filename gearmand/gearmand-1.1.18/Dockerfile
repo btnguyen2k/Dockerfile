@@ -1,4 +1,4 @@
-#dBuild with: docker build -t gearmand --force-rm .
+#Build with: docker build -t gearmand:1.1.18 --force-rm .
 
 FROM alpine:3.7
 MAINTAINER Thanh Nguyen <btnguyen2k@gmail.com>
